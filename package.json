@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "js-app",
+    "kotlin-mpp-npm-demo/typescript-wrappers",
+    "kotlin-mpp-npm-demo/build/js/packages/*",
+    "kotlin-mpp-npm-demo/build/js/packages_imported/*/*"
+  ]
+}

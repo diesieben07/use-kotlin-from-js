@@ -1,0 +1,4 @@
+[submodule "kotlin-mpp-npm-demo"]
+	path = kotlin-mpp-npm-demo
+	url = git@github.com:diesieben07/kotlin-mpp-npm-demo.git
+	branch = two-repos
